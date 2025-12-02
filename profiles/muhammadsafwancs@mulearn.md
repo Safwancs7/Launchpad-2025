@@ -18,8 +18,7 @@ I approach every challenge with focus, curiosity, and a growth mindset — alway
 |---------------------|---------------------------------------------------------------------------|-------------------------------------------|----------------------------------------------------------------|
 | **Chat Room App** | A real-time multi-room chat application built using React.js and Firebase.. |https://chat-room-application-virid.vercel.app/| https://github.com/Safwancs7/Chat-Room-Application.git |
 | **Bash-Script-Port-Scanning-Tool** | This script is a lightweight Bash-based tool designed to scan TCP ports on a target IP address across a specified range. By attempting to establish a TCP connection to each port, it determines whether the port is open or closed. Ideal for quick diagnostics, it's a handy utility for network administrators and cybersecurity professionals.. |  | https://github.com/Safwancs7/Bash-Script-Port-Scanning-Tool-.git |
-| **React Movie Library App (OMDb API)** | A clean, responsive, and production-style movie search and listing application built using React + Vite + OMDb API.
-Users can search for movies, series, and episodes, view results in a modern grid layout, and open a modal for detailed information. | https://react-movie-app-phi-one.vercel.app/ | https://github.com/Safwancs7/React-Movie-App.git |
+| **React Movie Library App (OMDb API)** | A clean, responsive, and production-style movie search and listing application built using React + Vite + OMDb API.Users can search for movies, series, and episodes, view results in a modern grid layout, and open a modal for detailed information.| https://react-movie-app-phi-one.vercel.app/ | https://github.com/Safwancs7/React-Movie-App.git |
 
 ---
 
